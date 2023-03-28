@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on some mini projects<br>I'm looking to collaborate on web dev projects<br>I'm currently learning javascript <br>
+# 💫 Hi, I'm Manish, a newbie in the world on tech
+Currently trying my hands on web development 
 
 
 ## 🌐 Socials:
