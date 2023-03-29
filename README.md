@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Manish
-A newbie in the world on tech<br>Currently trying my hands on web development 
+A newbie in the world of tech<br>Currently trying my hands on web development 
 
 
 ## 🌐 Socials:
